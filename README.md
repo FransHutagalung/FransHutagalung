@@ -1,3 +1,5 @@
+![Deskripsi GIF](rimuru.gif)
+
 ## Hi there 👋
 
 # 💫 About Me:
